@@ -1,0 +1,6 @@
+main categories - sub categories
+
+Technical - Tutorials, Project Showcase
+Stories - Recollections, Recent Events
+Contemplations - Opinions, Thoughts
+Just Chatting
