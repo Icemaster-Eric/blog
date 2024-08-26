@@ -1,9 +1,9 @@
 ---
 title: Procrastination?
 description: Am I procrastinating? What even is procrastination?
-date: 2024-08-25 22:44:00 -0800
-categories: [Just Chatting]
-tags: [procrastination]
+date: 2024-08-25 22:44:00 -0600
+categories: [Contemplations, Thoughts]
+tags: [procrastination, self-reflection]
 media_subpath: /assets/posts/procrastination/
 ---
 
