@@ -1,7 +1,7 @@
 ---
 title: Hello, World
 description: Woah, it's a blog!
-date: 2024-08-24 01:47:00 -0800
+date: 2024-08-24 13:47:00 -0800
 categories: [Just Chatting]
 tags: [introduction]
 media_subpath: /assets/posts/hello-world/
@@ -15,7 +15,7 @@ Yahallo~ I decided to start this blog after having a thought a few weeks ago (on
 
 ## Who, me?
 
-Anyways, I suppose an introduction is in order. As of the time of writing, I'm just your average, lost 16 year old who does a bit of programming on the side. I'll leave the part about my otaku tendencies to a future blog post, probably...
+I suppose an introduction is in order. As of the time of writing, I'm just your average, lost 16 year old who does a bit of programming on the side. I'll leave the part about my otaku tendencies to a future blog post, probably...
 
 ## Some lofty aspirations
 
