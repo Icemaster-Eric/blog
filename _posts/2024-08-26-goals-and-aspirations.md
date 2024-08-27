@@ -2,7 +2,7 @@
 title: Goals and Aspirations
 description: An overview of how my goalposts have changed throughout my life, and more serious pondering of life...
 date: 2024-08-26 16:30:00 -0600
-categories: [Contemplations, Thoughts]
+categories: [Just Chatting]
 tags: [goals, self-reflection]
 media_subpath: /assets/posts/procrastination/
 ---
