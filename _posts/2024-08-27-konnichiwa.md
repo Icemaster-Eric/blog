@@ -33,11 +33,11 @@ No, watching anime has not gotten me to fluency in any shape or form. Before I s
 
 Honestly, I've spent an unhealthy amount of time simply learning *how* to learn Japanese, so at this point I'm pretty sure I just need to stick to something and keep at it. I'm aiming to reach *at least* N2[^1], although I'm not sure about how realistic that is. Anyways, I'd like to wrap this up quickly so I can go do my homework, so here goes nothing:
 
-- [] Finish Core 2k
-- [] Start immersing 24/7
-- [] Read Japanese light novels w/ Yomitan
-    - [] Sentence mining?
-- [] Vrchat to talk to Japanese people
+- Finish Core 2k
+- Start immersing 24/7
+- Read Japanese light novels w/ Yomitan
+    - Sentence mining?
+- Vrchat to talk to Japanese people
 
 ## さよなら！
 
